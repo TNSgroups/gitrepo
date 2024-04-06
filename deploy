@@ -1,6 +1,6 @@
 !/bin/bash
 
 javac odd.java
-java odd
+java add
 hello 
 cp index.html /var/www/html
