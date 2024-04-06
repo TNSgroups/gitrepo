@@ -3,4 +3,6 @@
 javac odd.java
 java odd
 
+hello all 
+
 cp index.html /var/www/html
